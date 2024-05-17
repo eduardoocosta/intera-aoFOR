@@ -59,8 +59,8 @@ Informações pessoais
 <h1>
 
 * [Linkedin](https://www.linkedin.com/in/eduardo-costa-3369042bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* [eduardoocosta](https://github.com/eduardoocosta)
-* [duardoosta](https://www.instagram.com/duardooosta)
+* [GITHUB](https://github.com/eduardoocosta)
+* [Instagram](https://www.instagram.com/duardooosta)
 
 ## Fontes Consultadas
  * [DEVELOPER](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
