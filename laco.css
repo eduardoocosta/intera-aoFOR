@@ -1,0 +1,38 @@
+/* Importação de fontes */
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25+Charted&family=Sedan+SC&display=swap');
+
+body{
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    background: url("music2.png");
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+
+
+ 
+
+
+#btn {
+    position: relative;
+    display: flex;
+    left: 550px;
+    background-color: rgb(0, 183, 255);
+    top: 70px;
+    height: 60px;
+    width: 200px;
+    left: 1070px;
+}
+
+#tipoMusica {
+    height: 200px;
+    padding: 20px;
+    background-color: rgb(29, 202, 194);
+    position: relative;
+    bottom: -30px;
+    left: 500px;
+}
